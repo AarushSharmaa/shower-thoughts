@@ -2,8 +2,6 @@
 
 type a shower thought → 4 AI agents argue about it → one judge decides if you're a genius or an idiot.
 
-**[live demo →](https://your-app.streamlit.app)** *(update after deploy)*
-
 ## what it does
 
 - **Optimist** argues why your idea is brilliant
